@@ -89,7 +89,7 @@ Once you're happy with the data, start with the free plan for 1,000 free calls e
 | Location Autocomplete | `/locations/auto-complete` | Airports, cities and hotel places with the entity id and IATA code every search accepts |
 | Search Round-Trip Flights | `/flights/search-roundtrip` | Same fields as one-way, two legs per itinerary |
 | Search Multi-City Flights | `/flights/search-multi-city` | 2–6 legs in one search, same filters and fields |
-| Price Calendar | `/flights/price-calendar` | Cheapest fare per month for a route, cheapest month flagged |
+| Price Calendar | `/flights/price-calendar` | Cheapest fare per day and per month for a route (this month and next, or the full year), cheapest day and month flagged |
 | Search Hotels | `/hotels/search` | 30 hotels per page with stars, rating, photos, AI review digest and every partner's live rate |
 
 ## Pricing
