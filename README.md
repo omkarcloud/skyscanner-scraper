@@ -124,7 +124,7 @@ You're a developer — we know how hard completing a project can be. So we offer
 - [**Booking Scraper**](https://www.omkar.cloud/tools/booking-scraper) — Booking.com hotels: prices, ratings, rooms & amenities
 - [**Zoopla Scraper**](https://www.omkar.cloud/tools/zoopla-scraper) — UK property search, details, house prices & agents
 - [**Website Email Contact Scraper**](https://www.omkar.cloud/tools/website-email-contact-scraper) — emails, phones & socials from any website
-- [**AliExpress Scraper**](https://www.omkar.cloud/tools/aliexpress-scraper) — live product details, SKU variants, stock & shipping
+- [**AliExpress Scraper**](https://www.omkar.cloud/tools/aliexpress-scraper-api) — live product details, SKU variants, stock & shipping
 - [**IMDb Scraper**](https://www.omkar.cloud/tools/imdb-scraper) — movies, TV, ratings, cast, charts & box office
 
 👉 [Start with Free Plan](https://www.omkar.cloud/auth/sign-up?redirect=/tools/skyscanner-scraper/playground) — 1,000 free calls/month
