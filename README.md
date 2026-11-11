@@ -122,7 +122,7 @@ You're a developer — we know how hard completing a project can be. So we offer
 
 - [**Google Maps Scraper (3,100+ GitHub Stars)**](https://github.com/omkarcloud/google-maps-scraper) — type "travel agencies in London", get every business as a ready-to-call lead list: phones, emails, websites & reviews. Up to 100K free leads/month.
 - [**Booking Scraper**](https://www.omkar.cloud/tools/booking-scraper) — Booking.com hotels: prices, ratings, rooms & amenities
-- [**Zoopla Scraper**](https://www.omkar.cloud/tools/zoopla-scraper) — UK property search, details, house prices & agents
+- [**Kiwi Com Scraper**](https://github.com/omkarcloud/kiwi-com-scraper) — Kiwi.com flights: live fares, bag fees, self-transfer deals & price calendars
 - [**Website Email Contact Scraper**](https://www.omkar.cloud/tools/website-email-contact-scraper) — emails, phones & socials from any website
 - [**AliExpress Scraper**](https://www.omkar.cloud/tools/aliexpress-scraper-api) — live product details, SKU variants, stock & shipping
 - [**IMDb Scraper**](https://www.omkar.cloud/tools/imdb-scraper) — movies, TV, ratings, cast, charts & box office
